@@ -1,3 +1,5 @@
+After 10times test, if waitingTime is more than 0.00001, the package loss won't occur. Then when reduce waitingTime, loss package will occur frequently.
+
 # Assignment 1 - Part B
 
 You will be adding package lost detection and reliable message delivery to UDP.
